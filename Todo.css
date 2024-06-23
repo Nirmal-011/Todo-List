@@ -1,0 +1,14 @@
+.container{
+    border: 2px solid black;
+    width: 300px;
+    padding: 1%;
+    text-align: center;
+   margin-left: 35%;
+   margin-top: 20%;
+   box-shadow: 10px 10px 5px rgba(105, 104, 104,0.5 );
+   background-color: rgb(161, 216, 250);
+}
+table{
+    text-align: center;
+    margin-left: 15px;
+}
